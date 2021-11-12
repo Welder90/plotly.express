@@ -1,5 +1,5 @@
 # PlotlyExpress
 
-Python scripts for Jupyter Notebook, using the examples from https://plotly.com/python/animations/. 
+Python scripts for Jupyter Notebook, using the examples from https://plotly.com/python/animations/ and Gapminder data. 
 
-This highlight the effectiveness of Plotly Express compared to Plotly.graph_objects
+This highlight the effectiveness of plotly.express compared to plotly.graph_objects
