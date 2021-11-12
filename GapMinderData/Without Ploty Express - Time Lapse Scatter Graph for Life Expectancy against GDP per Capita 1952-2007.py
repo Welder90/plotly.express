@@ -1,3 +1,7 @@
+"""
+This generates the same output as the ploty.express script 
+"""
+
 #!/usr/bin/env python
 # coding: utf-8
 
